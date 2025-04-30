@@ -20,5 +20,94 @@
     "summary": "The U.S. EPA announced updates to national clean energy guidelines.",
     "summary_cn": "美国环保署公布了国家清洁能源指南的更新内容。",
     "source_url": "https://www.epa.gov/newsreleases"
+  },
+  {
+    "country_code": "in",
+    "country_cn": "印度",
+    "agency_name": "Ministry of Environment, Forest and Climate Change",
+    "date": "2024-05-10",
+    "title": "India strengthens forest protection laws",
+    "title_cn": "印度加强森林保护立法",
+    "summary": "New amendments aim to curb illegal logging and enhance biodiversity.",
+    "summary_cn": "新修正案旨在遏制非法砍伐并增强生物多样性。",
+    "source_url": "https://moef.gov.in/news/latest-forest-policy"
+  },
+  {
+    "country_code": "de",
+    "country_cn": "德国",
+    "agency_name": "Federal Ministry for the Environment",
+    "date": "2024-04-22",
+    "title": "Germany unveils national circular economy strategy",
+    "title_cn": "德国发布国家循环经济战略",
+    "summary": "The plan outlines steps for reducing waste and promoting recycling.",
+    "summary_cn": "该战略概述了减少废弃物和推动回收利用的措施。",
+    "source_url": "https://www.bmuv.de/news"
+  },
+  {
+    "country_code": "gb",
+    "country_cn": "英国",
+    "agency_name": "Department for Environment, Food and Rural Affairs (DEFRA)",
+    "date": "2024-03-30",
+    "title": "UK expands green farming initiatives",
+    "title_cn": "英国扩大绿色农业计划",
+    "summary": "DEFRA introduces subsidies to encourage sustainable practices.",
+    "summary_cn": "英国环境食品与农村事务部推出补贴鼓励可持续农业。",
+    "source_url": "https://www.gov.uk/government/news"
+  },
+  {
+    "country_code": "fr",
+    "country_cn": "法国",
+    "agency_name": "Ministry for the Ecological Transition",
+    "date": "2024-04-18",
+    "title": "France bans single-use plastic in public buildings",
+    "title_cn": "法国禁止在公共建筑中使用一次性塑料",
+    "summary": "A new law aims to reduce plastic pollution nationwide.",
+    "summary_cn": "一项新法律旨在全国范围内减少塑料污染。",
+    "source_url": "https://www.ecologie.gouv.fr/actualites"
+  },
+  {
+    "country_code": "jp",
+    "country_cn": "日本",
+    "agency_name": "Ministry of the Environment",
+    "date": "2024-04-05",
+    "title": "Japan releases climate adaptation roadmap",
+    "title_cn": "日本发布气候适应路线图",
+    "summary": "The roadmap focuses on climate resilience in urban areas.",
+    "summary_cn": "路线图重点关注城市地区的气候适应能力。",
+    "source_url": "https://www.env.go.jp/press/"
+  },
+  {
+    "country_code": "kr",
+    "country_cn": "韩国",
+    "agency_name": "Ministry of Environment",
+    "date": "2024-04-28",
+    "title": "Korea invests in green hydrogen development",
+    "title_cn": "韩国投资绿色氢能发展",
+    "summary": "The ministry allocates funding to promote hydrogen economy.",
+    "summary_cn": "韩国环境部投入资金以推动氢能经济。",
+    "source_url": "https://me.go.kr/home/web/board"
+  },
+  {
+    "country_code": "br",
+    "country_cn": "巴西",
+    "agency_name": "Ministry of the Environment and Climate Change",
+    "date": "2024-04-12",
+    "title": "Brazil steps up Amazon deforestation enforcement",
+    "title_cn": "巴西加强亚马逊森林砍伐执法",
+    "summary": "New drone program monitors illegal deforestation in real time.",
+    "summary_cn": "新启用的无人机项目可实时监控非法砍伐。",
+    "source_url": "https://www.gov.br/mma/pt-br"
+  },
+  {
+    "country_code": "za",
+    "country_cn": "南非",
+    "agency_name": "Department of Forestry, Fisheries and the Environment",
+    "date": "2024-03-22",
+    "title": "South Africa launches ocean pollution reduction plan",
+    "title_cn": "南非启动海洋污染减少计划",
+    "summary": "The initiative includes beach cleanups and waste management reforms.",
+    "summary_cn": "该计划包括海滩清理和废物管理改革。",
+    "source_url": "https://www.dffe.gov.za/mediareleases"
   }
 ]
+
