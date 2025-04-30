@@ -1,0 +1,38 @@
+[
+  {
+    "country_en": "China",
+    "country_cn": "中国",
+    "country_code": "cn",
+    "agency_name": "生态环境部",
+    "date": "2024-03-22",
+    "title": "China releases 2024 Blue Sky Action Plan",
+    "title_cn": "中国发布《2024年蓝天保卫战行动方案》",
+    "summary": "The plan outlines stricter measures for PM2.5 and ozone reduction nationwide.",
+    "summary_cn": "提出细颗粒物浓度和臭氧协同控制目标，强化多污染物统筹治理。",
+    "source_url": "http://www.mee.gov.cn/ywdt/xwfb/202403/t20240322_1022143.shtml"
+  },
+  {
+    "country_en": "France",
+    "country_cn": "法国",
+    "country_code": "fr",
+    "agency_name": "生态转型部",
+    "date": "2024-03-01",
+    "title": "France announces green economy roadmap",
+    "title_cn": "法国发布绿色经济发展路线图",
+    "summary": "Key focus on building retrofits, sustainable transport and agriculture.",
+    "summary_cn": "涵盖建筑节能、交通转型、农业碳中和等内容。",
+    "source_url": "https://www.ecologie.gouv.fr/strategie-nationale-transition-ecologique"
+  },
+  {
+    "country_en": "Singapore",
+    "country_cn": "新加坡",
+    "country_code": "sg",
+    "agency_name": "可持续发展与环境部",
+    "date": "2024-04-02",
+    "title": "Singapore releases National Climate Adaptation Report 2024",
+    "title_cn": "新加坡发布国家气候适应报告2024",
+    "summary": "It details strategies for sea level rise, heatwaves and water security.",
+    "summary_cn": "应对海平面上升、极端热浪、水资源安全等问题提出应对举措。",
+    "source_url": "https://www.mse.gov.sg/news/press-releases/national-climate-adaptation-report-2024"
+  }
+]

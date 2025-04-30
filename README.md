@@ -78,4 +78,19 @@ global-environmental-agencies/
   └── 📄 README.md              ✅ 描述数据来源与结构
   ```
 
+  ## 自动更新新闻数据方案（Node.js + Axios + Cheerio）
+
+  ### 📁 项目结构建议：
+
+  ```
+  kotlin
   
+  
+  复制编辑
+  project-root/
+  ├── data/
+  │   └── news.json           ← 自动更新的文件
+  ├── scripts/
+  │   └── updateNews.js       ← 爬虫脚本
+  ├── cronjob.sh              ← 每天定时运行的 shell
+  ```

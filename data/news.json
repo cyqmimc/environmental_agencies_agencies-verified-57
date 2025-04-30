@@ -1,0 +1,24 @@
+[
+  {
+    "country_code": "cn",
+    "country_cn": "中国",
+    "agency_name": "生态环境部",
+    "date": "2024-04-01",
+    "title": "China launches new air pollution control plan",
+    "title_cn": "中国发布新空气污染防治计划",
+    "summary": "The Ministry of Ecology and Environment has announced a comprehensive air quality action plan.",
+    "summary_cn": "生态环境部发布了一项全面的空气质量行动计划。",
+    "source_url": "https://www.mee.gov.cn/news/202404/t20240401_1234567.shtml"
+  },
+  {
+    "country_code": "us",
+    "country_cn": "美国",
+    "agency_name": "Environmental Protection Agency (EPA)",
+    "date": "2024-03-15",
+    "title": "EPA updates clean energy standards",
+    "title_cn": "美国环保署更新清洁能源标准",
+    "summary": "The U.S. EPA announced updates to national clean energy guidelines.",
+    "summary_cn": "美国环保署公布了国家清洁能源指南的更新内容。",
+    "source_url": "https://www.epa.gov/newsreleases"
+  }
+]

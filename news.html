@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>全球环保官网动态</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue@3.2.47/dist/vue.global.prod.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+
+<div id="app" class="max-w-6xl mx-auto p-6">
+  <nav-bar></nav-bar>
+
+  <div class="mb-4 flex flex-wrap gap-4 items-center">
+    <input v-model="search" type="text" placeholder="搜索国家或标题..." class="border p-2 rounded w-full md:w-1/2">
+    <select v-model="sortOrder" class="border p-2 rounded">
+      <option value="desc">按时间排序：最新优先</option>
+      <option value="asc">按时间排序：最旧优先</option>
+    </select>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div v-for="item in sortedNews" :key="item.title" class="bg-white p-4 rounded shadow hover:shadow-md">
+      <div class="flex items-center gap-2 mb-2">
+        <img :src="'https://flagcdn.com/w40/' + item.country_code + '.png'" class="w-6 h-4" alt="flag">
+        <span class="text-lg font-semibold">{{ item.country_cn }} · {{ item.agency_name }}</span>
+      </div>
+      <p class="text-sm text-gray-500 mb-1">📅 {{ item.date }}</p>
+      <h2 class="text-xl font-bold mb-1">📰 {{ item.title_cn }} <br><span class="text-sm text-gray-600">{{ item.title }}</span></h2>
+      <p class="text-gray-700 text-sm mb-2">📝 {{ item.summary_cn }}<br><span class="text-gray-500">{{ item.summary }}</span></p>
+      <a :href="item.source_url" target="_blank" class="text-blue-600 underline text-sm">🔗 阅读原文</a>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="js/newsApp.js"></script>
+
+</body>
+</html>

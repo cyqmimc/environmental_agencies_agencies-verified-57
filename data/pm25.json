@@ -1,0 +1,1232 @@
+[
+  {
+    "country_en": "Afghanistan",
+    "pm25": 46.1,
+    "year": 2020
+  },
+  {
+    "country_en": "Albania",
+    "pm25": 14.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Algeria",
+    "pm25": 15.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Argentina",
+    "pm25": 8.72,
+    "year": 2023
+  },
+  {
+    "country_en": "Australia",
+    "pm25": 4.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Austria",
+    "pm25": 10.21,
+    "year": 2023
+  },
+  {
+    "country_en": "Bangladesh",
+    "pm25": 79.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Pakistan",
+    "pm25": 73.7,
+    "year": 2023
+  },
+  {
+    "country_en": "India",
+    "pm25": 54.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Tajikistan",
+    "pm25": 49.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Burkina Faso",
+    "pm25": 46.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Iraq",
+    "pm25": 43.8,
+    "year": 2023
+  },
+  {
+    "country_en": "United Arab Emirates",
+    "pm25": 43.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Egypt",
+    "pm25": 42.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Nepal",
+    "pm25": 42.4,
+    "year": 2023
+  },
+  {
+    "country_en": "DR Congo",
+    "pm25": 40.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Kuwait",
+    "pm25": 39.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Bahrain",
+    "pm25": 39.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Qatar",
+    "pm25": 37.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Indonesia",
+    "pm25": 37.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Rwanda",
+    "pm25": 36.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Zimbabwe",
+    "pm25": 33.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Kyrgyzstan",
+    "pm25": 33.1,
+    "year": 2023
+  },
+  {
+    "country_en": "China",
+    "pm25": 32.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Mongolia",
+    "pm25": 30.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Nigeria",
+    "pm25": 29.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Bosnia and Herzegovina",
+    "pm25": 27.5,
+    "year": 2023
+  },
+  {
+    "country_en": "North Macedonia",
+    "pm25": 26.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Serbia",
+    "pm25": 25.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Kosovo",
+    "pm25": 25.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Poland",
+    "pm25": 22.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Slovakia",
+    "pm25": 21.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Hungary",
+    "pm25": 20.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Romania",
+    "pm25": 19.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Bulgaria",
+    "pm25": 18.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Czech Republic",
+    "pm25": 17.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Bosnia and Herzegovina",
+    "pm25": 27.5,
+    "year": 2023
+  },
+  {
+    "country_en": "North Macedonia",
+    "pm25": 26.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Serbia",
+    "pm25": 25.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Kosovo",
+    "pm25": 25.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Poland",
+    "pm25": 22.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Slovakia",
+    "pm25": 21.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Hungary",
+    "pm25": 20.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Romania",
+    "pm25": 19.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Bulgaria",
+    "pm25": 18.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Czech Republic",
+    "pm25": 17.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Croatia",
+    "pm25": 17.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Slovenia",
+    "pm25": 16.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Greece",
+    "pm25": 15.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Italy",
+    "pm25": 15.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Spain",
+    "pm25": 14.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Portugal",
+    "pm25": 13.7,
+    "year": 2023
+  },
+  {
+    "country_en": "France",
+    "pm25": 13.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Germany",
+    "pm25": 12.3,
+    "year": 2023
+  },
+  {
+    "country_en": "United Kingdom",
+    "pm25": 11.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Ireland",
+    "pm25": 10.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Finland",
+    "pm25": 5.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Sweden",
+    "pm25": 5.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Norway",
+    "pm25": 6.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Denmark",
+    "pm25": 7.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Netherlands",
+    "pm25": 12.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Belgium",
+    "pm25": 13.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Luxembourg",
+    "pm25": 11.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Switzerland",
+    "pm25": 9.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Austria",
+    "pm25": 10.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Liechtenstein",
+    "pm25": 8.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Malta",
+    "pm25": 14.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Cyprus",
+    "pm25": 13.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Israel",
+    "pm25": 15.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Lebanon",
+    "pm25": 17.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Jordan",
+    "pm25": 18.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Saudi Arabia",
+    "pm25": 20.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Iran",
+    "pm25": 25.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Turkey",
+    "pm25": 22.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Armenia",
+    "pm25": 19.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Georgia",
+    "pm25": 16.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Yemen",
+    "pm25": 28.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Oman",
+    "pm25": 24.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Afghanistan",
+    "pm25": 46.1,
+    "year": 2020
+  },
+  {
+    "country_en": "Syria",
+    "pm25": 21.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Libya",
+    "pm25": 26.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Tunisia",
+    "pm25": 22.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Morocco",
+    "pm25": 19.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Algeria",
+    "pm25": 15.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Sudan",
+    "pm25": 32.1,
+    "year": 2023
+  },
+  {
+    "country_en": "South Sudan",
+    "pm25": 29.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Canada",
+    "pm25": 10.3,
+    "year": 2023
+  },
+  {
+    "country_en": "United States",
+    "pm25": 9.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Mexico",
+    "pm25": 15.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Brazil",
+    "pm25": 12.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Argentina",
+    "pm25": 10.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Chile",
+    "pm25": 8.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Colombia",
+    "pm25": 13.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Peru",
+    "pm25": 14.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Venezuela",
+    "pm25": 16.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Ecuador",
+    "pm25": 11.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Bolivia",
+    "pm25": 17.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Paraguay",
+    "pm25": 15.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Uruguay",
+    "pm25": 9.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Panama",
+    "pm25": 7.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Costa Rica",
+    "pm25": 8.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Nicaragua",
+    "pm25": 13.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Honduras",
+    "pm25": 14.7,
+    "year": 2023
+  },
+  {
+    "country_en": "El Salvador",
+    "pm25": 12.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Guatemala",
+    "pm25": 15.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Dominican Republic",
+    "pm25": 13.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Bangladesh",
+    "pm25": 79.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Pakistan",
+    "pm25": 73.7,
+    "year": 2023
+  },
+  {
+    "country_en": "India",
+    "pm25": 54.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Tajikistan",
+    "pm25": 49.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Burkina Faso",
+    "pm25": 46.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Iraq",
+    "pm25": 43.8,
+    "year": 2023
+  },
+  {
+    "country_en": "United Arab Emirates",
+    "pm25": 43.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Nepal",
+    "pm25": 42.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Egypt",
+    "pm25": 42.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Democratic Republic of the Congo",
+    "pm25": 40.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Kuwait",
+    "pm25": 39.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Bahrain",
+    "pm25": 39.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Rwanda",
+    "pm25": 36.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Nigeria",
+    "pm25": 29.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Mongolia",
+    "pm25": 30.9,
+    "year": 2023
+  },
+  {
+    "country_en": "China",
+    "pm25": 32.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Kyrgyzstan",
+    "pm25": 33.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Zimbabwe",
+    "pm25": 33.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Indonesia",
+    "pm25": 37.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Qatar",
+    "pm25": 37.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Malaysia",
+    "pm25": 17.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Thailand",
+    "pm25": 24.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Vietnam",
+    "pm25": 23.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Philippines",
+    "pm25": 19.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Singapore",
+    "pm25": 13.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Brunei",
+    "pm25": 11.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Laos",
+    "pm25": 22.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Cambodia",
+    "pm25": 21.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Myanmar",
+    "pm25": 25.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Maldives",
+    "pm25": 12.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Sri Lanka",
+    "pm25": 20.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Bhutan",
+    "pm25": 13.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Kazakhstan",
+    "pm25": 28.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Uzbekistan",
+    "pm25": 26.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Turkmenistan",
+    "pm25": 23.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Azerbaijan",
+    "pm25": 22.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Belarus",
+    "pm25": 18.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Ukraine",
+    "pm25": 21.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Moldova",
+    "pm25": 20.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Russia",
+    "pm25": 17.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Namibia",
+    "pm25": 12.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Botswana",
+    "pm25": 14.2,
+    "year": 2023
+  },
+  {
+    "country_en": "South Africa",
+    "pm25": 22.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Lesotho",
+    "pm25": 16.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Eswatini",
+    "pm25": 17.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Mozambique",
+    "pm25": 20.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Madagascar",
+    "pm25": 18.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Zambia",
+    "pm25": 21.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Malawi",
+    "pm25": 23.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Tanzania",
+    "pm25": 24.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Kenya",
+    "pm25": 21.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Uganda",
+    "pm25": 26.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Rwanda",
+    "pm25": 28.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Burundi",
+    "pm25": 27.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Ethiopia",
+    "pm25": 30.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Somalia",
+    "pm25": 33.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Djibouti",
+    "pm25": 35.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Eritrea",
+    "pm25": 34.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Gabon",
+    "pm25": 19.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Republic of the Congo",
+    "pm25": 20.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Cameroon",
+    "pm25": 32.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Central African Republic",
+    "pm25": 34.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Chad",
+    "pm25": 77.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Niger",
+    "pm25": 68.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Mali",
+    "pm25": 65.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Senegal",
+    "pm25": 58.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Gambia",
+    "pm25": 47.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Guinea-Bissau",
+    "pm25": 49.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Guinea",
+    "pm25": 50.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Sierra Leone",
+    "pm25": 52.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Liberia",
+    "pm25": 45.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Ivory Coast",
+    "pm25": 41.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Ghana",
+    "pm25": 39.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Togo",
+    "pm25": 37.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Benin",
+    "pm25": 38.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Equatorial Guinea",
+    "pm25": 36.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Sao Tome and Principe",
+    "pm25": 35.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Mauritania",
+    "pm25": 42.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Western Sahara",
+    "pm25": 44.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Cape Verde",
+    "pm25": 31.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Comoros",
+    "pm25": 29.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Seychelles",
+    "pm25": 12.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Mauritius",
+    "pm25": 15.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Malta",
+    "pm25": 14.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Iceland",
+    "pm25": 5.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Greenland",
+    "pm25": 3.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Fiji",
+    "pm25": 11.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Samoa",
+    "pm25": 10.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Tonga",
+    "pm25": 9.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Solomon Islands",
+    "pm25": 12.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Vanuatu",
+    "pm25": 13.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Papua New Guinea",
+    "pm25": 15.9,
+    "year": 2023
+  },
+  {
+    "country_en": "New Zealand",
+    "pm25": 7.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Australia",
+    "pm25": 4.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Palau",
+    "pm25": 8.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Micronesia",
+    "pm25": 9.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Marshall Islands",
+    "pm25": 10.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Kiribati",
+    "pm25": 13.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Tuvalu",
+    "pm25": 12.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Nauru",
+    "pm25": 14.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Bahamas",
+    "pm25": 10.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Barbados",
+    "pm25": 12.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Cuba",
+    "pm25": 16.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Haiti",
+    "pm25": 28.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Jamaica",
+    "pm25": 18.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Saint Kitts and Nevis",
+    "pm25": 11.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Saint Lucia",
+    "pm25": 13.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Saint Vincent and the Grenadines",
+    "pm25": 14.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Dominica",
+    "pm25": 12.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Grenada",
+    "pm25": 13.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Trinidad and Tobago",
+    "pm25": 20.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Antigua and Barbuda",
+    "pm25": 11.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Belize",
+    "pm25": 15.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Suriname",
+    "pm25": 18.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Guyana",
+    "pm25": 19.3,
+    "year": 2023
+  },
+  {
+    "country_en": "French Guiana",
+    "pm25": 14.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Puerto Rico",
+    "pm25": 13.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Greenland",
+    "pm25": 3.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Faroe Islands",
+    "pm25": 5.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Bermuda",
+    "pm25": 7.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Monaco",
+    "pm25": 13.1,
+    "year": 2023
+  },
+  {
+    "country_en": "San Marino",
+    "pm25": 12.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Vatican City",
+    "pm25": 11.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Andorra",
+    "pm25": 12.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Liechtenstein",
+    "pm25": 8.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Luxembourg",
+    "pm25": 11.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Gibraltar",
+    "pm25": 14.3,
+    "year": 2023
+  },
+  {
+    "country_en": "Isle of Man",
+    "pm25": 10.9,
+    "year": 2023
+  },
+  {
+    "country_en": "Guernsey",
+    "pm25": 9.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Jersey",
+    "pm25": 10.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Sint Maarten",
+    "pm25": 13.4,
+    "year": 2023
+  },
+  {
+    "country_en": "Saint Martin",
+    "pm25": 13.7,
+    "year": 2023
+  },
+  {
+    "country_en": "Aruba",
+    "pm25": 14.6,
+    "year": 2023
+  },
+  {
+    "country_en": "Curacao",
+    "pm25": 15.2,
+    "year": 2023
+  },
+  {
+    "country_en": "Bonaire",
+    "pm25": 13.0,
+    "year": 2023
+  },
+  {
+    "country_en": "Cayman Islands",
+    "pm25": 12.5,
+    "year": 2023
+  },
+  {
+    "country_en": "Turks and Caicos Islands",
+    "pm25": 11.3,
+    "year": 2023
+  },
+  {
+    "country_en": "British Virgin Islands",
+    "pm25": 12.8,
+    "year": 2023
+  },
+  {
+    "country_en": "Anguilla",
+    "pm25": 13.1,
+    "year": 2023
+  },
+  {
+    "country_en": "Montserrat",
+    "pm25": 12.0,
+    "year": 2023
+  }
+]
